@@ -24,3 +24,6 @@ hs_err_pid*
 replay_pid*
 java_jik/.project
 java_jik/.classpath
+/bin/
+.classpath
+.project
